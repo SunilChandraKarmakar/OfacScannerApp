@@ -12,3 +12,4 @@ D:\OfacScannerApp\OfacScannerApp\OfacScannerApp\obj\Debug\net10.0\refint\OfacSca
 D:\OfacScannerApp\OfacScannerApp\OfacScannerApp\obj\Debug\net10.0\OfacScannerApp.pdb
 D:\OfacScannerApp\OfacScannerApp\OfacScannerApp\obj\Debug\net10.0\OfacScannerApp.genruntimeconfig.cache
 D:\OfacScannerApp\OfacScannerApp\OfacScannerApp\obj\Debug\net10.0\ref\OfacScannerApp.dll
+D:\OfacScannerApp\OfacScannerApp\OfacScannerApp\obj\Debug\net10.0\OfacScannerApp.sourcelink.json

@@ -3,8 +3,28 @@
   "WorkspaceRootPath": "D:\\OfacScannerApp\\OfacScannerApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{25CCBCDD-C312-4E52-94B3-050B5F0F2169}|OfacScannerApp\\OfacScannerApp.csproj|d:\\ofacscannerapp\\ofacscannerapp\\ofacscannerapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{25CCBCDD-C312-4E52-94B3-050B5F0F2169}|OfacScannerApp\\OfacScannerApp.csproj|solutionrelative:ofacscannerapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CB84BB56-5517-9B6D-EF6C-87804E30F560}|OfacScannerApp\\OfacScannerApp.csproj|d:\\ofacscannerapp\\ofacscannerapp\\ofacscannerapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB84BB56-5517-9B6D-EF6C-87804E30F560}|OfacScannerApp\\OfacScannerApp.csproj|solutionrelative:ofacscannerapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB84BB56-5517-9B6D-EF6C-87804E30F560}|OfacScannerApp\\OfacScannerApp.csproj|d:\\ofacscannerapp\\ofacscannerapp\\ofacscannerapp\\services\\ofacservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB84BB56-5517-9B6D-EF6C-87804E30F560}|OfacScannerApp\\OfacScannerApp.csproj|solutionrelative:ofacscannerapp\\services\\ofacservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB84BB56-5517-9B6D-EF6C-87804E30F560}|OfacScannerApp\\OfacScannerApp.csproj|d:\\ofacscannerapp\\ofacscannerapp\\ofacscannerapp\\utilities\\stringmatcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB84BB56-5517-9B6D-EF6C-87804E30F560}|OfacScannerApp\\OfacScannerApp.csproj|solutionrelative:ofacscannerapp\\utilities\\stringmatcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB84BB56-5517-9B6D-EF6C-87804E30F560}|OfacScannerApp\\OfacScannerApp.csproj|d:\\ofacscannerapp\\ofacscannerapp\\ofacscannerapp\\models\\ofacindex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB84BB56-5517-9B6D-EF6C-87804E30F560}|OfacScannerApp\\OfacScannerApp.csproj|solutionrelative:ofacscannerapp\\models\\ofacindex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB84BB56-5517-9B6D-EF6C-87804E30F560}|OfacScannerApp\\OfacScannerApp.csproj|d:\\ofacscannerapp\\ofacscannerapp\\ofacscannerapp\\models\\matchresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB84BB56-5517-9B6D-EF6C-87804E30F560}|OfacScannerApp\\OfacScannerApp.csproj|solutionrelative:ofacscannerapp\\models\\matchresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB84BB56-5517-9B6D-EF6C-87804E30F560}|OfacScannerApp\\OfacScannerApp.csproj|d:\\ofacscannerapp\\ofacscannerapp\\ofacscannerapp\\models\\ofacentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB84BB56-5517-9B6D-EF6C-87804E30F560}|OfacScannerApp\\OfacScannerApp.csproj|solutionrelative:ofacscannerapp\\models\\ofacentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 42,
+          "SelectedChildIndex": 44,
           "Children": [
             {
               "$type": "Bookmark",
@@ -186,15 +206,80 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MatchResult.cs",
+              "DocumentMoniker": "D:\\OfacScannerApp\\OfacScannerApp\\OfacScannerApp\\Models\\MatchResult.cs",
+              "RelativeDocumentMoniker": "OfacScannerApp\\Models\\MatchResult.cs",
+              "ToolTip": "D:\\OfacScannerApp\\OfacScannerApp\\OfacScannerApp\\Models\\MatchResult.cs",
+              "RelativeToolTip": "OfacScannerApp\\Models\\MatchResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwsAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T10:15:20.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OfacIndex.cs",
+              "DocumentMoniker": "D:\\OfacScannerApp\\OfacScannerApp\\OfacScannerApp\\Models\\OfacIndex.cs",
+              "RelativeDocumentMoniker": "OfacScannerApp\\Models\\OfacIndex.cs",
+              "ToolTip": "D:\\OfacScannerApp\\OfacScannerApp\\OfacScannerApp\\Models\\OfacIndex.cs",
+              "RelativeToolTip": "OfacScannerApp\\Models\\OfacIndex.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwcAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T09:47:08.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\OfacScannerApp\\OfacScannerApp\\OfacScannerApp\\Program.cs",
               "RelativeDocumentMoniker": "OfacScannerApp\\Program.cs",
               "ToolTip": "D:\\OfacScannerApp\\OfacScannerApp\\OfacScannerApp\\Program.cs",
               "RelativeToolTip": "OfacScannerApp\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvwEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAD0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-02T07:09:08.593Z",
+              "WhenOpened": "2026-04-02T07:17:28.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StringMatcher.cs",
+              "DocumentMoniker": "D:\\OfacScannerApp\\OfacScannerApp\\OfacScannerApp\\Utilities\\StringMatcher.cs",
+              "RelativeDocumentMoniker": "OfacScannerApp\\Utilities\\StringMatcher.cs",
+              "ToolTip": "D:\\OfacScannerApp\\OfacScannerApp\\OfacScannerApp\\Utilities\\StringMatcher.cs",
+              "RelativeToolTip": "OfacScannerApp\\Utilities\\StringMatcher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T07:16:43.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OfacService.cs",
+              "DocumentMoniker": "D:\\OfacScannerApp\\OfacScannerApp\\OfacScannerApp\\Services\\OfacService.cs",
+              "RelativeDocumentMoniker": "OfacScannerApp\\Services\\OfacService.cs",
+              "ToolTip": "D:\\OfacScannerApp\\OfacScannerApp\\OfacScannerApp\\Services\\OfacService.cs",
+              "RelativeToolTip": "OfacScannerApp\\Services\\OfacService.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAlwFgAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T07:12:40.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OfacEntity.cs",
+              "DocumentMoniker": "D:\\OfacScannerApp\\OfacScannerApp\\OfacScannerApp\\Models\\OfacEntity.cs",
+              "RelativeDocumentMoniker": "OfacScannerApp\\Models\\OfacEntity.cs",
+              "ToolTip": "D:\\OfacScannerApp\\OfacScannerApp\\OfacScannerApp\\Models\\OfacEntity.cs",
+              "RelativeToolTip": "OfacScannerApp\\Models\\OfacEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T07:11:48.791Z",
               "EditorCaption": ""
             }
           ]
